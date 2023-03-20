@@ -1,11 +1,3 @@
 # Algorithm-for-Massive-Dataset_Plant-leave-recognizer
 
-We trained and evaluated several CNN models using a publicly available
-dataset of plant leaves images. The dataset consists of images of 12 different
-plant, each with varying numbers of images.
-Our results show that deep learning models, particularly CNNs, can
-achieve high accuracy in classifying plant leaves. The best model we trained
-achieved an accuracy of ”69%”. on the test set, outperforming other models’
-performance. The model’s ability to accurately classify plant leaves can help
-in plant species identification, monitoring plant growth, and detecting plant
-diseases.
+This study evaluates the performance of two deep learning models, RestNet and VGG16, on a plant leaves image classification task. Both models showed the ability to learn from training data and improve their performance on the task. However, the RestNet model had a slower start and required more epochs to achieve high validation accuracy compared to the VGG16 model. The study suggests that deep learning techniques and neural networks have potential for plant leaves image classification, with implications for fields such as agriculture, plant biology, and environmental monitoring. The high accuracy rate of the models can aid in identifying plant species accurately, making it easier for researchers, farmers, and conservationists to track and monitor plant populations.
