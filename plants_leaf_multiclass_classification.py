@@ -8,13 +8,6 @@ Original file is located at
 """
 
 
-from IPython.display import HTML
-
-url = "https://colab.research.google.com/drive/1muJ78Njtoe1_tAIxX21-qoih628VTXqh"
-
-html = '<a href="{0}" target="_blank">{0}</a>'.format(url)
-display(HTML(html))
-
 import matplotlib.pyplot as plt
 import numpy as np
 import PIL
